@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AndWorkplace\\mobilesafe5207\\moblieSafe52\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\AndWorkplace\\mobilesafe5207\\moblieSafe52\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\AndWorkplace\\mobilesafe5207\\moblieSafe52\\build\\intermediates\\res\\merged\\debug\\menu\\menu_app_manager.xml",
+        "source": "E:\\AndWorkplace\\mobilesafe5207\\moblieSafe52\\src\\main\\res\\menu\\menu_app_manager.xml"
+    },
+    {
+        "merged": "E:\\AndWorkplace\\mobilesafe5207\\moblieSafe52\\build\\intermediates\\res\\merged\\debug\\menu\\menu_call_safe.xml",
+        "source": "E:\\AndWorkplace\\mobilesafe5207\\moblieSafe52\\src\\main\\res\\menu\\menu_call_safe.xml"
+    }
+]
